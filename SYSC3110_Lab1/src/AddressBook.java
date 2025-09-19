@@ -15,4 +15,9 @@ public class AddressBook {
         System.out.println("Address book running..");
     }
 
+    public int size() {
+        return buddies.size();
+    }
+
+
 }
