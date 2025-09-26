@@ -1,5 +1,8 @@
 import java.util.ArrayList;
 
+// Test change for feature-addBuddy branch
+
+
 public class AddressBook {
     private ArrayList<BuddyInfo> AddressBook = new ArrayList<BuddyInfo>();
 
